@@ -1,0 +1,6 @@
+**/__ pycache __/
+**/migrations/
+**.pyc
+.env
+#Ignore visual studio config file
+.vscode/settings.json
